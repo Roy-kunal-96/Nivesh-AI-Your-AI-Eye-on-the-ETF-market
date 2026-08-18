@@ -1,0 +1,6 @@
+{
+  "name": "Nivesh AI",
+  "description": "Modern AI-powered ETF intelligence and opportunity detection platform for Indian Exchange Traded Funds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
