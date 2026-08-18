@@ -2,6 +2,8 @@
 
 **Smart ETF filter and recommendation engine powered by AI**
 
+[![Demo](https://img.shields.io/badge/Try%20Demo-Nivesh%20AI-blue?style=for-the-badge&logo=rocket)](https://nivesh-ai.ai.studio/)
+
 ## Overview
 
 Nivesh AI is an intelligent platform designed to help investors navigate the complex world of Exchange-Traded Funds (ETFs). Using advanced AI technology, it provides personalized filtering and recommendations to discover ETFs that match your investment goals and risk profile.
@@ -13,6 +15,10 @@ Nivesh AI is an intelligent platform designed to help investors navigate the com
 - 📊 **Market Insights** - Get real-time data and analysis to make informed investment decisions
 - 🎯 **Personalized Analysis** - Tailored recommendations based on your investment style and objectives
 - 💼 **Portfolio Management** - Track and analyze your ETF portfolio performance
+
+## Quick Start
+
+👉 **[Try the Live Demo](https://nivesh-ai.ai.studio/)** 👈
 
 ## Tech Stack
 
@@ -90,6 +96,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For issues, questions, or suggestions, please:
 - Open an [issue](https://github.com/Roy-kunal-96/Nivesh-AI-Your-AI-Eye-on-the-ETF-market/issues)
 - Check existing documentation
+- Visit our [live demo](https://nivesh-ai.ai.studio/)
 
 ## Acknowledgments
 
